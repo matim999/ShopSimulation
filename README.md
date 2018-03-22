@@ -1,0 +1,2 @@
+# ShopSimulation
+Console shop simulation.
